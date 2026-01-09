@@ -1,4 +1,4 @@
-# Stopwatch App
+# Stopwatch App ✨
 
 A new Flutter project.
 
